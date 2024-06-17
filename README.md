@@ -34,18 +34,5 @@ snake 가 자신의 몸에 부딪힌다.
 snake 가 벽에 부딪힌다.  
 snake 의 몸 길이가 3보다 작아진다.  
 
-<h2>플레이영상(유튜브)</h2>
-https://youtu.be/OsmhDhg0cAs
-
-![KakaoTalk_Photo_2023-06-18-20-15-21 001](https://github.com/Seongyoon-Jung/snakeGame/assets/92080209/fa692138-361e-49f0-9599-3538ddf7702f)
-![KakaoTalk_Photo_2023-06-18-20-15-21 002](https://github.com/Seongyoon-Jung/snakeGame/assets/92080209/f9e0dff5-e03c-4bf2-9a5f-80e2665eb248)
-![KakaoTalk_Photo_2023-06-18-20-15-22 003](https://github.com/Seongyoon-Jung/snakeGame/assets/92080209/6a4c2a20-4ed8-4269-95ea-5ba793bea981)
-![KakaoTalk_Photo_2023-06-18-20-15-22 004](https://github.com/Seongyoon-Jung/snakeGame/assets/92080209/ec11a1e8-0068-4a8b-b53f-c406f7368ba3)
-
-
-
-
-
-
 
 
