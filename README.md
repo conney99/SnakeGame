@@ -34,5 +34,7 @@ snake 가 자신의 몸에 부딪힌다.
 snake 가 벽에 부딪힌다.  
 snake 의 몸 길이가 3보다 작아진다.  
 
+<h2>-file별 내용 정리-</h2>   
+https://conney99.notion.site/Snake-game-9a6e3fb7fca04267aa7254cbc8d7bd36?pvs=4
 
 
