@@ -4,7 +4,7 @@ CXXFLAGS = -W -Wall -O2
 SRCS = Charposition.cpp Display.cpp Gameplay.cpp Initialization.cpp Items.cpp main.cpp
 RUN = executiveFile
 
-all : ${RUN}
+run : ${RUN}
 ${RUN} : ${OBJS}	
 	@${CC} -o ${RUN} ${OBJS} -lncurses
 	@rm *.o
